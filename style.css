@@ -1,0 +1,144 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #23252C;
+    font-family: 'Inter', sans-serif;
+}
+
+.mainBlock {
+    background-color: #1A1B21;
+    width: 317px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.pic {
+    width: 317px;
+    height: 317px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.name {
+    margin-top: 30px;
+    font-weight: 500;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
+
+.position {
+    margin-top: -12px;
+    color: #F3BF99;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.link {
+  margin-top: -12px;
+  color: white;
+  text-align: center;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+a:link {
+    text-decoration: none;
+}
+a:hover {
+    color: blueviolet;
+}
+
+a:visited {
+    color: white;
+}
+
+.bSection {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;    
+}
+
+.button {
+  border: none;
+  color: balck;
+  width: 115px;
+  justify-content: space-between;
+  padding: 5px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  font-weight: 500;
+  margin: 4px 15px 4px 20px;
+  cursor: pointer;
+  border-radius: 8px;
+  display: flex;
+  letter-spacing: 2px;
+}
+
+.button >img {
+    margin-right: 5px;
+}
+
+.b1 {
+    background-color: white;
+    justify-content: space-around;
+    
+}
+
+.b1:hover {
+    background-color: blueviolet;
+    color: white;
+}
+
+.b2 {
+    background-color: #5093E2;
+    justify-content: space-around;
+}
+
+.b2:hover {
+    background-color: blueviolet;
+    color: white;
+}
+
+h2 {
+    color: white;
+    font-weight: 500;
+    font-size: 22px;
+    margin:25px 20px;
+}
+
+p {
+    color: white;
+    font-weight: 400;
+    font-size: 13px;
+    text-align: left;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+
+footer {
+    background-color: #161619;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.icons > img {
+    margin: 12px 20px;
+}
+
+
