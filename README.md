@@ -1,9 +1,9 @@
+### E-Business Card - A React App
+
 Author : Saju Vijayakanthan
-Project : E-Business Card
 Tool : React App
-Pulished through Netlify
+[Pulished through Netlify](https://e-business-card-saju.netlify.app/)
 
 This project is part of Scrimba course on  learning React.
-Feedbacks are welcome! 
-Contact me @vijayasajanuki@gmail.com
+
 
